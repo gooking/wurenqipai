@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apifm-uniapp": "^3.68.0",
+    "dayjs": "^1.11.10"
+  }
+}
