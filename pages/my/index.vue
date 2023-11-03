@@ -105,7 +105,7 @@
 			async onChooseAvatar(e) {
 				console.log(e);
 				const avatarUrl = e.detail.avatarUrl
-				let res = await this.$wxapi.uploadFile(this.token, avatarUrl)
+				let res = await this.$wxapi.uploadFileV2(this.token, avatarUrl)
 				if (res.code != 0) {
 					uni.showToast({
 						title: res.msg,

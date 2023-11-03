@@ -108,7 +108,7 @@
 				if (this.fileList) {
 					for (let index = 0; index < this.fileList.length; index++) {
 						const pic = this.fileList[index];
-						const res = await this.$wxapi.uploadFile(this.token, pic.url)
+						const res = await this.$wxapi.uploadFileV2(this.token, pic.url)
 						if (res.code == 0) {
 							extJsonStr['file' + index] = res.data.url
 						}
