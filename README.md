@@ -13,14 +13,18 @@ uni-app 主要是基于 vue 技术，所以你要对 vue 有一定的基础，�
 <img src="https://dcdn.it120.cc/2023/10/08/b44c0900-bd54-4251-b0a8-0648e772b487.jpg" width="200px">
 
 ## 其他优秀开源模板推荐
-- [天使童装（微信小程序原生版本）](https://github.com/EastWorld/wechat-app-mall) [【码云镜像】](https://gitee.com/javazj/wechat-app-mall)
-- [天使童装（uni-app版本）](https://github.com/gooking/uni-app-mall) [【码云镜像】](https://gitee.com/javazj/uni-app-mall)
-- [简约商城（uni-app版本）](https://github.com/gooking/uni-app--mini-mall) [【码云镜像】](https://gitee.com/javazj/uni-app--mini-mall)
-- [AI名片](https://github.com/gooking/visitingCard) [【码云镜像】](https://gitee.com/javazj/visitingCard)
-- [仿海底捞订座排队 (uni-app)](https://github.com/gooking/dingzuopaidui) [【码云镜像】](https://gitee.com/javazj/dingzuopaidui)
-- [H5版商城](https://github.com/gooking/vueMinishop) [【码云镜像】](https://gitee.com/javazj/vueMinishop)
-- [蜜蜂点餐外卖小程序](https://github.com/woniudiancang/bee) [【码云镜像】](https://gitee.com/woniudiancang/bee)
-- [企业微展小程序](https://github.com/gooking/qiyeweizan) [【码云镜像】](https://gitee.com/javazj/qiyeweizan)
+- [天使童装](https://github.com/EastWorld/wechat-app-mall)   /  [码云镜像](https://gitee.com/javazj/wechat-app-mall)
+- [天使童装（uni-app版本）](https://github.com/gooking/uni-app-mall)  /   [码云镜像](https://gitee.com/javazj/uni-app-mall)
+- [简约精品商城（uni-app版本）](https://github.com/gooking/uni-app--mini-mall)  /   [码云镜像](https://gitee.com/javazj/uni-app--mini-mall)
+- [舔果果小铺（升级版）](https://github.com/gooking/TianguoguoXiaopu)
+- [面馆风格小程序](https://gitee.com/javazj/noodle_shop_procedures)
+- [AI名片](https://github.com/gooking/visitingCard)
+- [仿海底捞订座排队 (uni-app)](https://github.com/gooking/dingzuopaidui)  /   [码云镜像](https://gitee.com/javazj/dingzuopaidui)
+- [H5版本商城/餐饮](https://github.com/gooking/vueMinishop)  /  [码云镜像](https://gitee.com/javazj/vueMinishop)
+- [餐饮点餐](https://github.com/woniudiancang/bee)  / [码云镜像](https://gitee.com/woniudiancang/bee)
+- [企业微展](https://github.com/gooking/qiyeweizan)  / [码云镜像](https://gitee.com/javazj/qiyeweizan)
+- [无人棋牌室](https://github.com/gooking/wurenqipai)  / [码云镜像](https://gitee.com/javazj/wurenqipai)
+- [酒店客房服务小程序](https://github.com/gooking/hotelRoomService)  / [码云镜像](https://gitee.com/javazj/hotelRoomService)
 
 ## 加我好友
 
